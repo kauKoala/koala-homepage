@@ -1609,6 +1609,7 @@ __metadata:
     "@vitejs/plugin-react": ^3.0.0
     framer-motion: ^8.0.2
     gsap: ^3.11.4
+    lottie-web: ^5.10.1
     react: ^18.2.0
     react-dom: ^18.2.0
     react-router-dom: ^6.6.1
@@ -1632,6 +1633,13 @@ __metadata:
   bin:
     loose-envify: cli.js
   checksum: 6517e24e0cad87ec9888f500c5b5947032cdfe6ef65e1c1936a0c48a524b81e65542c9c3edc91c97d5bddc806ee2a985dbc79be89215d613b1de5db6d1cfe6f4
+  languageName: node
+  linkType: hard
+
+"lottie-web@npm:^5.10.1":
+  version: 5.10.1
+  resolution: "lottie-web@npm:5.10.1"
+  checksum: 5da7d0804b4b895d795e3eb299e45a0dfd1c7a5268784668ff72965d4c6e0806e0b60984fade74dd681909cc325d45b13d4a8e24c96e73472a00646e16b628b4
   languageName: node
   linkType: hard
 

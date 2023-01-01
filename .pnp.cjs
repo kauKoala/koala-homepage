@@ -35,6 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vitejs/plugin-react", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:3.0.0"],\
             ["framer-motion", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:8.0.2"],\
             ["gsap", "npm:3.11.4"],\
+            ["lottie-web", "npm:5.10.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:18.2.0"],\
             ["react-router-dom", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:6.6.1"],\
@@ -1950,6 +1951,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vitejs/plugin-react", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:3.0.0"],\
             ["framer-motion", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:8.0.2"],\
             ["gsap", "npm:3.11.4"],\
+            ["lottie-web", "npm:5.10.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:18.2.0"],\
             ["react-router-dom", "virtual:d5e1a78df4fb6ed4fd152d41b76d8cd845938ee22847c32dd928fc9627cc63c93f1c0688b7a19b99e3b71f828d756f522926088f75b3152e331aee3b32833a97#npm:6.6.1"],\
@@ -1974,6 +1976,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["loose-envify", "npm:1.4.0"],\
             ["js-tokens", "npm:4.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["lottie-web", [\
+        ["npm:5.10.1", {\
+          "packageLocation": "./.yarn/cache/lottie-web-npm-5.10.1-b546f02492-5da7d0804b.zip/node_modules/lottie-web/",\
+          "packageDependencies": [\
+            ["lottie-web", "npm:5.10.1"]\
           ],\
           "linkType": "HARD"\
         }]\
