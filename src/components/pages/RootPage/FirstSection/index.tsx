@@ -8,7 +8,7 @@ import gsap from "gsap";
 type Props = {};
 
 const FirstSection = (props: Props) => {
-  const lottieContainer = useRef<Element | null>(null);
+  const lottieContainer = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
     gsap.timeline();
