@@ -36,10 +36,10 @@ const FirstSection = (props: Props) => {
         <HightlightText>L</HightlightText>GORITHM{" "}
         <HightlightText>A</HightlightText>SSOCIATION
       </HeroSubtitle>
-      <div>
+      {/* <div>
         <div>팀 블로그</div>
         <div>Github</div>
-      </div>
+      </div> */}
       <LottieContainer ref={lottieContainer} />
     </Section>
   );
