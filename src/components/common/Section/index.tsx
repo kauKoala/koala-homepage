@@ -6,6 +6,7 @@ type Props = {};
 const Section = styled.section`
   height: 100vh;
   max-width: 1140px;
+  padding: 0 80px;
   display: flex;
   flex-direction: column;
   align-items: center;

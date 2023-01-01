@@ -4,10 +4,11 @@ import styled from "@emotion/styled";
 
 type Props = {};
 
-const ThirdSection = (props: Props) => {
+const FourthSection = (props: Props) => {
   return (
     <Section>
-      <Title>KOALA 활동</Title>
+      <Title>알고리즘은</Title>
+      <Title>지금 바로, 10번째 KOALA에 합류하세요</Title>
       <GridContainer>
         <div>a</div>
         <div>b</div>
@@ -28,4 +29,4 @@ const GridContainer = styled.div`
   grid-template-columns: repeat(2, 1fr);
 `;
 
-export default ThirdSection;
+export default FourthSection;
