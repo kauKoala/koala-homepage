@@ -32,19 +32,19 @@ const StyledHeader = styled.header`
   position: sticky;
   background-color: #fff;
   top: 0;
+  /* padding-bottom: ${HEADER_HEIGHT}px; */
 
-  &:after {
+  /* &:after {
     content: "";
     position: absolute;
     height: 30px;
     width: 100%;
-    /* background-color: red; */
     background: linear-gradient(
       180deg,
       rgba(255, 255, 255, 1) 50%,
       rgba(255, 255, 255, 0.05) 100%
     );
-  }
+  } */
 `;
 
 const Container = styled.div`
